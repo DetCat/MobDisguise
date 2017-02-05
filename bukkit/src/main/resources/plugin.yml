@@ -1,3 +1,5 @@
 name: MobDisguise
 version: 0.1.0
 author: DetCat
+
+main: com.detcat.mobdisguise.MobDisguise
