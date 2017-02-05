@@ -1,2 +1,2 @@
 # MobDisguise
-Bukkit Plugin that provide you to disguise mobs.
+Bukkit Plugin that provides you to disguise mobs.
